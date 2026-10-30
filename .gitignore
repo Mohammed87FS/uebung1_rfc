@@ -1,0 +1,25 @@
+# Word-Sperrdateien
+~$*
+
+# Visual Studio: Cache, IntelliSense, Copilot-Verläufe
+.vs/
+*.ipch
+
+# Build-Ausgaben (werden beim Bauen neu erzeugt)
+# Die DMX-DLLs in Debug/ und Release/ bleiben drin, die braucht die .exe zur Laufzeit.
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.lib
+*.exp
+*.log
+*.recipe
+*.tlog/
+*.FileListAbsolute.txt
+*.lastbuildstate
+unsuccessfulbuild
+*.dt.d.json
+*.dt.module.json
+*.dt.module.json.command
